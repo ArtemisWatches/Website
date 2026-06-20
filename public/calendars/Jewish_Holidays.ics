@@ -1,0 +1,608 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jewish Holidays
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Tu Bishvat
+DTSTART;VALUE=DATE:20250213
+DTEND;VALUE=DATE:20250213
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/tu-bishvat.php to know more about Tu Bishvat. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c87971759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Purim
+DTSTART;VALUE=DATE:20250314
+DTEND;VALUE=DATE:20250314
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/purim.php to know more about Purim. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c87ab1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shushan Purim
+DTSTART;VALUE=DATE:20250315
+DTEND;VALUE=DATE:20250315
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/purim.php to know more about Shushan Purim. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c87b81759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passover - First Day
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250412
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/passover.php to know more about Passover - First Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c87c41759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passover - Final Day
+DTSTART;VALUE=DATE:20250420
+DTEND;VALUE=DATE:20250420
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/passover.php to know more about Passover - Final Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c87cf1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom Hashoah
+DTSTART;VALUE=DATE:20250423
+DTEND;VALUE=DATE:20250423
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/yom-hashoah.php to know more about Yom Hashoah. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c87da1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom HaZikaron
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250430
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/yom-hazikaron.php to know more about Yom HaZikaron. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c87e61759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom HaAtzma'ut
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250501
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/yom-haatzmaut.php to know more about Yom HaAtzma'ut. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c87f11759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Second Passover
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250512
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/passover.php to know more about Second Passover. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c87fd1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lag BaOmer
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250516
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/lag-bomer.php to know more about Lag BaOmer. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c88081759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom Yerushalayim
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250526
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/yom-yerushalayim.php to know more about Yom Yerushalayim. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c88141759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shavuot (1st day)
+DTSTART;VALUE=DATE:20250601
+DTEND;VALUE=DATE:20250601
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/shavuot.php to know more about Shavuot (1st day). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c88201759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shavuot
+DTSTART;VALUE=DATE:20250603
+DTEND;VALUE=DATE:20250603
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/shavuot.php to know more about Shavuot. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c882c1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 17th of Tammuz
+DTSTART;VALUE=DATE:20250713
+DTEND;VALUE=DATE:20250713
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/the-17th-of-tammuz.php to know more about The 17th of Tammuz. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c88381759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tish'a B'Av
+DTSTART;VALUE=DATE:20250803
+DTEND;VALUE=DATE:20250803
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/tisha-bav.php to know more about Tish'a B'Av. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c88431759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh HaShana Starts
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250922
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/rosh-hashanah.php to know more about Rosh HaShana Starts. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c884f1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh HaShana Ends
+DTSTART;VALUE=DATE:20250924
+DTEND;VALUE=DATE:20250924
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/rosh-hashanah.php to know more about Rosh HaShana Ends. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c885b1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast of Gedaliah
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250925
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/fast-of-gedaliah.php to know more about Fast of Gedaliah. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c88681759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom Kippur
+DTSTART;VALUE=DATE:20251002
+DTEND;VALUE=DATE:20251002
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/yom-kippur.php to know more about Yom Kippur. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c88741759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sukkot Starts
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251006
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/sukkot.php to know more about Sukkot Starts. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c88801759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sukkot Ends
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251013
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/sukkot.php to know more about Sukkot Ends. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c888d1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shmini Atzeret
+DTSTART;VALUE=DATE:20251014
+DTEND;VALUE=DATE:20251014
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/shemini-atzeret.php to know more about Shmini Atzeret. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c889a1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simchat Torah
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251015
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/simhat-torah.php to know more about Simchat Torah. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c88a61759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanukkah Starts
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251214
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/hanukkah.php to know more about Hanukkah Starts. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c88b21759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanukkah Ends
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20251222
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/hanukkah.php to know more about Hanukkah Ends. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c88bf1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tu Bishvat
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260201
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/tu-bishvat.php to know more about Tu Bishvat. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c88cc1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Purim
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260302
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/purim.php to know more about Purim. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c88d91759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shushan Purim
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260304
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/purim.php to know more about Shushan Purim. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c88e61759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passover - First Day
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260401
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/passover.php to know more about Passover - First Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c88f31759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passover - Final Day
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260409
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/passover.php to know more about Passover - Final Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c89001759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom Hashoah
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260413
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/yom-hashoah.php to know more about Yom Hashoah. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c890d1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom HaZikaron
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260420
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/yom-hazikaron.php to know more about Yom HaZikaron. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c891a1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom HaAtzma'ut
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260421
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/yom-haatzmaut.php to know more about Yom HaAtzma'ut. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c89271759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Second Passover
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260430
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/passover.php to know more about Second Passover. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c89351759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lag BaOmer
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260504
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/lag-bomer.php to know more about Lag BaOmer. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c89421759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom Yerushalayim
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260514
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/yom-yerushalayim.php to know more about Yom Yerushalayim. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c89501759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shavuot (1st day)
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260521
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/shavuot.php to know more about Shavuot (1st day). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c895e1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shavuot
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260523
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/shavuot.php to know more about Shavuot. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c896c1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 17th of Tammuz
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260702
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/the-17th-of-tammuz.php to know more about The 17th of Tammuz. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c89791759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tish'a B'Av
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260722
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/tisha-bav.php to know more about Tish'a B'Av. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c89871759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh HaShana Starts
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260911
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/rosh-hashanah.php to know more about Rosh HaShana Starts. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c89951759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast of Gedaliah
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260914
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/fast-of-gedaliah.php to know more about Fast of Gedaliah. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c89a81759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom Kippur
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260920
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/yom-kippur.php to know more about Yom Kippur. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c89b61759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sukkot Starts
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260925
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/sukkot.php to know more about Sukkot Starts. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c89c51759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoshanah Rabbah
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261001
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/hoshanah-rabbah.php to know more about Hoshanah Rabbah. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c89d31759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shmini Atzeret
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261002
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/shemini-atzeret.php to know more about Shmini Atzeret. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c89e21759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sukkot Ends
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261002
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/sukkot.php to know more about Sukkot Ends. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c89f01759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simchat Torah
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261003
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/simhat-torah.php to know more about Simchat Torah. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c89ff1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanukkah Starts
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261204
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/hanukkah.php to know more about Hanukkah Starts. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c8a0d1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanukkah Ends
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261212
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/jewish/hanukkah.php to know more about Hanukkah Ends. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5c07c8a1c1759140871@calendarlabs.com
+DTSTAMP:20250929T061431Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

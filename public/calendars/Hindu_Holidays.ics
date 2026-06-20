@@ -1,0 +1,908 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hindu Holidays
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Makarsankranti / Pongal
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250115
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/pongal.php to know more about Makarsankranti / Pongal. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e29371759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vasant Panchami
+DTSTART;VALUE=DATE:20250202
+DTEND;VALUE=DATE:20250202
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/vasant-panchami.php to know more about Vasant Panchami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e294b1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thaipusam
+DTSTART;VALUE=DATE:20250211
+DTEND;VALUE=DATE:20250211
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/thaipusam.php to know more about Thaipusam. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e29591759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maha Shivaratri
+DTSTART;VALUE=DATE:20250226
+DTEND;VALUE=DATE:20250226
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/maha-shivratri.php to know more about Maha Shivaratri. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e29651759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holika Dahan
+DTSTART;VALUE=DATE:20250313
+DTEND;VALUE=DATE:20250313
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/holi.php to know more about Holika Dahan. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e29701759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holi
+DTSTART;VALUE=DATE:20250314
+DTEND;VALUE=DATE:20250314
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/holi.php to know more about Holi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e297b1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hindi New Year
+DTSTART;VALUE=DATE:20250329
+DTEND;VALUE=DATE:20250329
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/hindi-new-year.php to know more about Hindi New Year. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e29871759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ugadi / Gudi Padwa / Telugu New Year
+DTSTART;VALUE=DATE:20250330
+DTEND;VALUE=DATE:20250330
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/ugadi-telugu-new-year.php to know more about Ugadi / Gudi Padwa / Telugu New Year. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e29931759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ramanavami
+DTSTART;VALUE=DATE:20250406
+DTEND;VALUE=DATE:20250406
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/ramanavami.php to know more about Ramanavami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e299e1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Jayanti
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250412
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/hanuman-jayanti.php to know more about Hanuman Jayanti. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e29aa1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vaisakhi / Baisakhi / Vishu 
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250414
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/vishu.php to know more about Vaisakhi / Baisakhi / Vishu . \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e29b51759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bengali New Year / Bihu
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250414
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/bihu-bengali-new-year.php to know more about Bengali New Year / Bihu. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e29c11759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tamil New Year
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250414
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/tamil-new-year.php to know more about Tamil New Year. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e29cc1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akshaya Tritiya
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250530
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/akshaya-tritiya.php to know more about Akshaya Tritiya. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e29d81759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Savitri Pooja
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250610
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/savitri-pooja.php to know more about Savitri Pooja. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e29e41759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Puri Rath Yatra
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250627
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/rath-yatra.php to know more about Puri Rath Yatra. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e29ef1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guru Purnima
+DTSTART;VALUE=DATE:20250710
+DTEND;VALUE=DATE:20250710
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/guru-purnima.php to know more about Guru Purnima. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e29fb1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nag Panchami
+DTSTART;VALUE=DATE:20250729
+DTEND;VALUE=DATE:20250729
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/nag-panchami.php to know more about Nag Panchami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2a071759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Varalakshmi Vrat
+DTSTART;VALUE=DATE:20250808
+DTEND;VALUE=DATE:20250808
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/varalakshmi-vrat.php to know more about Varalakshmi Vrat. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2a131759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raksha Bandhan
+DTSTART;VALUE=DATE:20250809
+DTEND;VALUE=DATE:20250809
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/raksha-bandhan.php to know more about Raksha Bandhan. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2a1f1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Janmashtami
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250816
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/janmashtami.php to know more about Krishna Janmashtami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2a2b1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ganesh Chaturthi
+DTSTART;VALUE=DATE:20250827
+DTEND;VALUE=DATE:20250827
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/ganesh-chaturthi.php to know more about Ganesh Chaturthi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2a371759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onam
+DTSTART;VALUE=DATE:20250904
+DTEND;VALUE=DATE:20250904
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/onam.php to know more about Onam. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2a441759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwakarma Puja
+DTSTART;VALUE=DATE:20250917
+DTEND;VALUE=DATE:20250917
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/vishwakarma-puja.php to know more about Vishwakarma Puja. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2a501759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mahalaya Amavasya
+DTSTART;VALUE=DATE:20250921
+DTEND;VALUE=DATE:20250921
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/mahalaya-amavasya.php to know more about Mahalaya Amavasya. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2a5c1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navaratri begins
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250922
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/navaratri.php to know more about Navaratri begins. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2a691759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Durga Puja begins
+DTSTART;VALUE=DATE:20250928
+DTEND;VALUE=DATE:20250928
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/durga-puja.php to know more about Durga Puja begins. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2a751759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navaratri ends / Maha Navami
+DTSTART;VALUE=DATE:20251001
+DTEND;VALUE=DATE:20251001
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/navaratri.php to know more about Navaratri ends / Maha Navami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2a821759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dusshera 
+DTSTART;VALUE=DATE:20251002
+DTEND;VALUE=DATE:20251002
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/dussehra.php to know more about Dusshera . \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2a8f1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sharad Purnima
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251006
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/sharad-purnima.php to know more about Sharad Purnima. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2a9c1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karwa Chauth
+DTSTART;VALUE=DATE:20251009
+DTEND;VALUE=DATE:20251009
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/karva-chauth.php to know more about Karwa Chauth. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2aa81759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dhan Teras
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251018
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/dhanteras.php to know more about Dhan Teras. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2ab61759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diwali
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251021
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/diwali.php to know more about Diwali. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2ac31759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bhai Dooj
+DTSTART;VALUE=DATE:20251023
+DTEND;VALUE=DATE:20251023
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/bhai-dooj.php to know more about Bhai Dooj. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2acf1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chhath Puja
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251027
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/chhath-puja.php to know more about Chhath Puja. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2adc1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kartik Poornima
+DTSTART;VALUE=DATE:20251105
+DTEND;VALUE=DATE:20251105
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/kartik-poornima.php to know more about Kartik Poornima. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2aea1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geeta Jayanti
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251201
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/geeta-jayanti.php to know more about Geeta Jayanti. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2af71759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dhanu Sankranti
+DTSTART;VALUE=DATE:20251216
+DTEND;VALUE=DATE:20251216
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/dhanu-sankranti.php to know more about Dhanu Sankranti. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2b041759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Makarsankranti / Pongal
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260114
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/pongal.php to know more about Makarsankranti / Pongal. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2b121759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vasant Panchami
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260123
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/vasant-panchami.php to know more about Vasant Panchami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2b201759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thaipusam
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260201
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/thaipusam.php to know more about Thaipusam. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2b2e1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maha Shivaratri
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260215
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/maha-shivratri.php to know more about Maha Shivaratri. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2b3b1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holika Dahan
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260303
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/holi.php to know more about Holika Dahan. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2b491759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holi
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260304
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/holi.php to know more about Holi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2b571759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ugadi / Gudi Padwa / Telugu New Year
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260319
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/ugadi-telugu-new-year.php to know more about Ugadi / Gudi Padwa / Telugu New Year. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2b641759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ramanavami
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260327
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/ramanavami.php to know more about Ramanavami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2b721759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Jayanti
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260402
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/hanuman-jayanti.php to know more about Hanuman Jayanti. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2b801759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vaisakhi / Baisakhi / Vishu 
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260414
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/vishu.php to know more about Vaisakhi / Baisakhi / Vishu . \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2b8e1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tamil New Year
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260414
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/tamil-new-year.php to know more about Tamil New Year. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2ba01759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bengali New Year / Bihu
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260415
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/bihu-bengali-new-year.php to know more about Bengali New Year / Bihu. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2baf1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akshaya Tritiya
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260419
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/akshaya-tritiya.php to know more about Akshaya Tritiya. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2bbd1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Savitri Pooja
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260516
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/savitri-pooja.php to know more about Savitri Pooja. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2bcc1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Puri Rath Yatra
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260716
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/rath-yatra.php to know more about Puri Rath Yatra. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2bda1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guru Purnima
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260729
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/guru-purnima.php to know more about Guru Purnima. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2be91759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nag Panchami
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260817
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/nag-panchami.php to know more about Nag Panchami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2bf71759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onam
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260826
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/onam.php to know more about Onam. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2c061759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raksha Bandhan
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260828
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/raksha-bandhan.php to know more about Raksha Bandhan. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2c141759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Varalakshmi Vrat
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260828
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/varalakshmi-vrat.php to know more about Varalakshmi Vrat. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2c231759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Janmashtami
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260904
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/janmashtami.php to know more about Krishna Janmashtami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2c321759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ganesh Chaturthi
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260914
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/ganesh-chaturthi.php to know more about Ganesh Chaturthi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2c411759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwakarma Puja
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/vishwakarma-puja.php to know more about Vishwakarma Puja. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2c501759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mahalaya Amavasya
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261010
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/mahalaya-amavasya.php to know more about Mahalaya Amavasya. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2c601759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navaratri begins
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261011
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/navaratri.php to know more about Navaratri begins. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2c6f1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navaratri ends / Maha Navami
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261019
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/navaratri.php to know more about Navaratri ends / Maha Navami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2c7e1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Durga Puja begins
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261019
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/durga-puja.php to know more about Durga Puja begins. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2c8e1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dusshera 
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261020
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/dussehra.php to know more about Dusshera . \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2c9d1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sharad Purnima
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261025
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/sharad-purnima.php to know more about Sharad Purnima. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2cad1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karwa Chauth
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261029
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/karva-chauth.php to know more about Karwa Chauth. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2cbc1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dhan Teras
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261106
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/dhanteras.php to know more about Dhan Teras. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2ccc1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diwali
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261108
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/diwali.php to know more about Diwali. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2cdc1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bhai Dooj
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261111
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/bhai-dooj.php to know more about Bhai Dooj. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2cec1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chhath Puja
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261115
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/chhath-puja.php to know more about Chhath Puja. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2cfc1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kartik Poornima
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261124
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/kartik-poornima.php to know more about Kartik Poornima. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2d0c1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dhanu Sankranti
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261216
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/dhanu-sankranti.php to know more about Dhanu Sankranti. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2d1c1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geeta Jayanti
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261220
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/geeta-jayanti.php to know more about Geeta Jayanti. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da55e8e2d2d1759139304@calendarlabs.com
+DTSTAMP:20250929T054824Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

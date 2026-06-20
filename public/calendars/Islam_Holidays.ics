@@ -1,0 +1,248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Islam Holidays
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Lailat al Miraj
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250127
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/islam/lailat-al-miraj.php to know more about Lailat al Miraj. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaeb51759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lailat al Bara'ah
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250214
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/islam/lailat-al-baraah.php to know more about Lailat al Bara'ah. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaeca1759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ramadan (start)
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250228
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/islam/ramadan.php to know more about Ramadan (start). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaed71759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laylat al Qadr
+DTSTART;VALUE=DATE:20250327
+DTEND;VALUE=DATE:20250327
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/islam/laylat-al-kadr.php to know more about Laylat al Qadr. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaee31759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid-al-Fitr (End of Ramadan)
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250331
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/islam/ramadan.php to know more about Eid-al-Fitr (End of Ramadan). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaeee1759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Waqf al Arafa - Hajj
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250606
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/islam/waqf-al-arafa-hajj.php to know more about Waqf al Arafa - Hajj. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaefa1759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid-al-Adha
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250607
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid-al-Adha. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaf061759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hijra - Islamic New Year
+DTSTART;VALUE=DATE:20250626
+DTEND;VALUE=DATE:20250626
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/muharram.php to know more about Hijra - Islamic New Year. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaf111759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day of Ashura / Muharram
+DTSTART;VALUE=DATE:20250705
+DTEND;VALUE=DATE:20250705
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/muharram.php to know more about Day of Ashura / Muharram. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaf1c1759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milad un Nabi
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250905
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/milad-un-nabi.php to know more about Milad un Nabi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaf271759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lailat al Miraj
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260116
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/islam/lailat-al-miraj.php to know more about Lailat al Miraj. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaf331759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lailat al Bara'ah
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260203
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/islam/lailat-al-baraah.php to know more about Lailat al Bara'ah. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaf3f1759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ramadan (start)
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260218
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/islam/ramadan.php to know more about Ramadan (start). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaf4b1759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laylat al Qadr
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260316
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/islam/laylat-al-kadr.php to know more about Laylat al Qadr. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaf561759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid-al-Fitr (End of Ramadan)
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260320
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/islam/ramadan.php to know more about Eid-al-Fitr (End of Ramadan). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaf621759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Waqf al Arafa - Hajj
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260525
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/islam/waqf-al-arafa-hajj.php to know more about Waqf al Arafa - Hajj. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaf6d1759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hijra - Islamic New Year
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260616
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/muharram.php to know more about Hijra - Islamic New Year. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaf791759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day of Ashura / Muharram
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260626
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/muharram.php to know more about Day of Ashura / Muharram. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaf851759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milad un Nabi
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260825
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/milad-un-nabi.php to know more about Milad un Nabi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaf911759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milad un Nabi (Shia)
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260826
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/milad-un-nabi.php to know more about Milad un Nabi (Shia). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:68da5bf9aaf9e1759140857@calendarlabs.com
+DTSTAMP:20250929T061417Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
