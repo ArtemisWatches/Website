@@ -162,7 +162,7 @@ watch(() => [...store.activeCalendars], syncEvents)
       <div v-for="ev in monthEvents" :key="ev.id" class="cal-event-item">
         <span
           class="cal-event-dot"
-          :style="{ background: CALENDAR_DEFS[ev.calendarId]?.color ?? '#888' }"
+          :style="{ background: CALENDAR_DEFS[ev.calendarId ?? '']?.color ?? '#888' }"
         />
         <span class="cal-event-date">{{ fmtEventDate(ev.start) }}</span>
         <span class="cal-event-title">{{ ev.title }}</span>
